@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<style>
+.city {
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    max-width: 300px;
+    height: 300px;
+    border: 1px solid black;
+} 
+</style>
+</head>
+<body>
+
+<h1>Welcome To Micah's Biography</h1>
+
+<div class="city">
+  <h2>Micah</h2>
+  <p>Micah in School</p>
+  <p>Micah lovs to code, play soccer. Micah wants an airsoft gun for his holidays. He will be shooting thomas in the nuts then he gets his airsoft gun. Micah is very sassy sometimes, mostly in soccer. When Micah scores a hat trick in the second half, he does his celebration. He gets knocked to the ground by his teammates when he scores because when he chest bumps them, he falls over.</p>
+</div>
+
+<div class="city">
+  <h2>Micah at home</h2>
+  <p>Micah loves to make blueberry muffins and Ryan likes to eat them all. Sometimes Micah handcuffs Ryan when he has to many muffins. Micah enjoys playing xbox as the broncos and continues to lose because they are so bad.</p>
+</div>
+
+<div class="city">
+  <h2>Micah Playing Sports</h2>
+  <p>Micah loves to play soccer. He plays striker and mid. Micah used to enjoy playing goalie but now his team has a 6 foot 3 inches player in goal and Micah likes field better and he is much better at it also. </p>
+</div>
+
+</body>
+</html>
